@@ -127,7 +127,7 @@ section{    display: flex;}
 
 .profile-pic{
     height: 60px;
-    width: 60px;
+    width: 60px ;
 }
 
 .profile-pic img{
